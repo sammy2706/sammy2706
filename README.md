@@ -1,7 +1,7 @@
 # Sammy Ibdah
 
 ### About Me
-I am a motivated high school student with strong interpersonal and communication skills. Passionate about technology 💻 and always eager to learn, I enjoy collaborating with others to solve problems and make a positive impact. My curiosity drives me to explore new opportunities across various industries, where I can gain hands-on experience, develop new skills, and grow both personally and professionally. I am especially interested in networking 🌐, programming 🖥️, and innovative technologies that shape the future.
+I am a motivated college student with strong interpersonal and communication skills. Passionate about technology 💻 and always eager to learn, I enjoy collaborating with others to solve problems and make a positive impact. My curiosity drives me to explore new opportunities across various industries, where I can gain hands-on experience, develop new skills, and grow both personally and professionally. I am especially interested in networking 🌐, programming 🖥️, and innovative technologies that shape the future.
 
 ### Interests
 -  Networking & Cybersecurity 🔐
